@@ -1,0 +1,5 @@
+creation de serveur
+use database
+connect database to server 
+config // models //routes //controllers //middlewares 
+app.method(path,func)
